@@ -1,10 +1,9 @@
-# COP5615: Distributed Operating Systems 
-# Project 4.1: Implementation of Bitcoin Protocol
+## Implementation of Bitcoin Protocol
 
 Team Members:
 ```
-Sai Swetha Kondubhatla  UFID: 1172 9282
-Nikhil Reddy Kortha     UFID: 7193 8560
+Nikhil Reddy Kortha 
+Sai Swetha Kondubhatla      
 ```
 
 ## What is Working
